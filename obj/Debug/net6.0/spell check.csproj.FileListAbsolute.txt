@@ -1,0 +1,15 @@
+F:\CS30\spell check\bin\Debug\net6.0\spell check.exe
+F:\CS30\spell check\bin\Debug\net6.0\spell check.deps.json
+F:\CS30\spell check\bin\Debug\net6.0\spell check.runtimeconfig.json
+F:\CS30\spell check\bin\Debug\net6.0\spell check.dll
+F:\CS30\spell check\bin\Debug\net6.0\spell check.pdb
+F:\CS30\spell check\obj\Debug\net6.0\spell check.csproj.AssemblyReference.cache
+F:\CS30\spell check\obj\Debug\net6.0\spell check.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\spell check\obj\Debug\net6.0\spell check.AssemblyInfoInputs.cache
+F:\CS30\spell check\obj\Debug\net6.0\spell check.AssemblyInfo.cs
+F:\CS30\spell check\obj\Debug\net6.0\spell check.csproj.CoreCompileInputs.cache
+F:\CS30\spell check\obj\Debug\net6.0\spell check.dll
+F:\CS30\spell check\obj\Debug\net6.0\refint\spell check.dll
+F:\CS30\spell check\obj\Debug\net6.0\spell check.pdb
+F:\CS30\spell check\obj\Debug\net6.0\spell check.genruntimeconfig.cache
+F:\CS30\spell check\obj\Debug\net6.0\ref\spell check.dll
